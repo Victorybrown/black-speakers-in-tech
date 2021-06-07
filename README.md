@@ -13,11 +13,11 @@ This is a list of black speakers in tech. Please submit a PR if you'd like to ad
 Please add speakers alphabetical by last name.
 
 ```md
-#### Full Name
+####  Brown Victory
 
-- [@twitterhandle](http://twitter.com/username)
-- Topics -
-- Location -
+- [@victorybrown_](http://twitter.com/victorybrown_)
+- Topics - Design, Open Source, Diversity and Inclusion, Accessibility.
+- Location -Nigeria
 ```
 
 - [Speakers](#speakers)
